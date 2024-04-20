@@ -1,0 +1,250 @@
+{\rtf1\fs24
+\pard\qc
+Problem Set 2\par
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx2736\clbrdrt\brdrs\cellx4176
+\ql \cell\qc (1)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx2736\cellx4176
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx2736\clbrdrb\brdrs\cellx4176
+\ql VARIABLES\cell\qc lnpr\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx2736\cellx4176
+\ql \cell\qc \cell\row
+\ql Living Area\cell\qc 0.000***\cell\row
+\ql \cell\qc [0.000]\cell\row
+\ql PR_Age\cell\qc -0.001***\cell\row
+\ql \cell\qc [0.000]\cell\row
+\ql Lot Area\cell\qc 0.000**\cell\row
+\ql \cell\qc [0.000]\cell\row
+\ql ZipCode = 91006\cell\qc 0.184***\cell\row
+\ql \cell\qc [0.070]\cell\row
+\ql ZipCode = 91007\cell\qc 0.321***\cell\row
+\ql \cell\qc [0.070]\cell\row
+\ql ZipCode = 91008\cell\qc 0.105\cell\row
+\ql \cell\qc [0.110]\cell\row
+\ql ZipCode = 91010\cell\qc -0.372***\cell\row
+\ql \cell\qc [0.057]\cell\row
+\ql ZipCode = 91011\cell\qc 0.451***\cell\row
+\ql \cell\qc [0.062]\cell\row
+\ql ZipCode = 91016\cell\qc -0.068\cell\row
+\ql \cell\qc [0.054]\cell\row
+\ql ZipCode = 91020\cell\qc -0.085\cell\row
+\ql \cell\qc [0.136]\cell\row
+\ql ZipCode = 91024\cell\qc 0.142\cell\row
+\ql \cell\qc [0.092]\cell\row
+\ql ZipCode = 91030\cell\qc 0.278***\cell\row
+\ql \cell\qc [0.061]\cell\row
+\ql ZipCode = 91040\cell\qc -0.318***\cell\row
+\ql \cell\qc [0.053]\cell\row
+\ql ZipCode = 91042\cell\qc -0.305***\cell\row
+\ql \cell\qc [0.052]\cell\row
+\ql ZipCode = 91103\cell\qc -0.051\cell\row
+\ql \cell\qc [0.081]\cell\row
+\ql ZipCode = 91104\cell\qc 0.002\cell\row
+\ql \cell\qc [0.054]\cell\row
+\ql ZipCode = 91105\cell\qc 0.342***\cell\row
+\ql \cell\qc [0.067]\cell\row
+\ql ZipCode = 91106\cell\qc 0.432***\cell\row
+\ql \cell\qc [0.102]\cell\row
+\ql ZipCode = 91107\cell\qc 0.170***\cell\row
+\ql \cell\qc [0.055]\cell\row
+\ql ZipCode = 91108\cell\qc 0.770***\cell\row
+\ql \cell\qc [0.056]\cell\row
+\ql ZipCode = 91201\cell\qc 0.038\cell\row
+\ql \cell\qc [0.073]\cell\row
+\ql ZipCode = 91202\cell\qc 0.006\cell\row
+\ql \cell\qc [0.069]\cell\row
+\ql ZipCode = 91203\cell\qc -0.025\cell\row
+\ql \cell\qc [0.082]\cell\row
+\ql ZipCode = 91205\cell\qc -0.022\cell\row
+\ql \cell\qc [0.072]\cell\row
+\ql ZipCode = 91206\cell\qc 0.073\cell\row
+\ql \cell\qc [0.055]\cell\row
+\ql ZipCode = 91207\cell\qc 0.148*\cell\row
+\ql \cell\qc [0.081]\cell\row
+\ql ZipCode = 91208\cell\qc 0.090\cell\row
+\ql \cell\qc [0.060]\cell\row
+\ql ZipCode = 91214\cell\qc 0.055\cell\row
+\ql \cell\qc [0.053]\cell\row
+\ql ZipCode = 91301\cell\qc -0.107*\cell\row
+\ql \cell\qc [0.061]\cell\row
+\ql ZipCode = 91302\cell\qc 0.140**\cell\row
+\ql \cell\qc [0.066]\cell\row
+\ql ZipCode = 91303\cell\qc -0.297***\cell\row
+\ql \cell\qc [0.055]\cell\row
+\ql ZipCode = 91304\cell\qc -0.296***\cell\row
+\ql \cell\qc [0.051]\cell\row
+\ql ZipCode = 91306\cell\qc -0.437***\cell\row
+\ql \cell\qc [0.049]\cell\row
+\ql ZipCode = 91307\cell\qc -0.240***\cell\row
+\ql \cell\qc [0.050]\cell\row
+\ql ZipCode = 91311\cell\qc -0.337***\cell\row
+\ql \cell\qc [0.051]\cell\row
+\ql ZipCode = 91316\cell\qc 0.088\cell\row
+\ql \cell\qc [0.067]\cell\row
+\ql ZipCode = 91321\cell\qc -0.451***\cell\row
+\ql \cell\qc [0.053]\cell\row
+\ql ZipCode = 91324\cell\qc -0.377***\cell\row
+\ql \cell\qc [0.059]\cell\row
+\ql ZipCode = 91325\cell\qc -0.356***\cell\row
+\ql \cell\qc [0.058]\cell\row
+\ql ZipCode = 91326\cell\qc -0.259***\cell\row
+\ql \cell\qc [0.052]\cell\row
+\ql ZipCode = 91331\cell\qc -0.530***\cell\row
+\ql \cell\qc [0.051]\cell\row
+\ql ZipCode = 91335\cell\qc -0.362***\cell\row
+\ql \cell\qc [0.052]\cell\row
+\ql ZipCode = 91340\cell\qc -0.529***\cell\row
+\ql \cell\qc [0.053]\cell\row
+\ql ZipCode = 91342\cell\qc -0.457***\cell\row
+\ql \cell\qc [0.050]\cell\row
+\ql ZipCode = 91343\cell\qc -0.392***\cell\row
+\ql \cell\qc [0.050]\cell\row
+\ql ZipCode = 91344\cell\qc -0.335***\cell\row
+\ql \cell\qc [0.049]\cell\row
+\ql ZipCode = 91345\cell\qc -0.463***\cell\row
+\ql \cell\qc [0.059]\cell\row
+\ql ZipCode = 91350\cell\qc -0.484***\cell\row
+\ql \cell\qc [0.050]\cell\row
+\ql ZipCode = 91351\cell\qc -0.485***\cell\row
+\ql \cell\qc [0.049]\cell\row
+\ql ZipCode = 91352\cell\qc -0.359***\cell\row
+\ql \cell\qc [0.058]\cell\row
+\ql ZipCode = 91354\cell\qc -0.462***\cell\row
+\ql \cell\qc [0.050]\cell\row
+\ql ZipCode = 91355\cell\qc -0.364***\cell\row
+\ql \cell\qc [0.049]\cell\row
+\ql ZipCode = 91356\cell\qc 0.054\cell\row
+\ql \cell\qc [0.056]\cell\row
+\ql ZipCode = 91364\cell\qc -0.108**\cell\row
+\ql \cell\qc [0.055]\cell\row
+\ql ZipCode = 91367\cell\qc -0.137**\cell\row
+\ql \cell\qc [0.055]\cell\row
+\ql ZipCode = 91381\cell\qc -0.318***\cell\row
+\ql \cell\qc [0.051]\cell\row
+\ql ZipCode = 91384\cell\qc -0.471***\cell\row
+\ql \cell\qc [0.069]\cell\row
+\ql ZipCode = 91387\cell\qc -0.531***\cell\row
+\ql \cell\qc [0.054]\cell\row
+\ql ZipCode = 91390\cell\qc -0.585***\cell\row
+\ql \cell\qc [0.061]\cell\row
+\ql ZipCode = 91401\cell\qc -0.134**\cell\row
+\ql \cell\qc [0.063]\cell\row
+\ql ZipCode = 91402\cell\qc -0.491***\cell\row
+\ql \cell\qc [0.063]\cell\row
+\ql ZipCode = 91403\cell\qc 0.292***\cell\row
+\ql \cell\qc [0.086]\cell\row
+\ql ZipCode = 91405\cell\qc -0.377***\cell\row
+\ql \cell\qc [0.078]\cell\row
+\ql ZipCode = 91406\cell\qc -0.279***\cell\row
+\ql \cell\qc [0.054]\cell\row
+\ql ZipCode = 91411\cell\qc 0.035\cell\row
+\ql \cell\qc [0.120]\cell\row
+\ql ZipCode = 91423\cell\qc 0.282***\cell\row
+\ql \cell\qc [0.065]\cell\row
+\ql ZipCode = 91436\cell\qc 0.262***\cell\row
+\ql \cell\qc [0.074]\cell\row
+\ql ZipCode = 91501\cell\qc 0.105*\cell\row
+\ql \cell\qc [0.064]\cell\row
+\ql ZipCode = 91502\cell\qc 0.043\cell\row
+\ql \cell\qc [0.060]\cell\row
+\ql ZipCode = 91504\cell\qc 0.031\cell\row
+\ql \cell\qc [0.055]\cell\row
+\ql ZipCode = 91505\cell\qc 0.031\cell\row
+\ql \cell\qc [0.053]\cell\row
+\ql ZipCode = 91506\cell\qc 0.066\cell\row
+\ql \cell\qc [0.055]\cell\row
+\ql ZipCode = 91601\cell\qc -0.071\cell\row
+\ql \cell\qc [0.110]\cell\row
+\ql ZipCode = 91602\cell\qc 0.364***\cell\row
+\ql \cell\qc [0.095]\cell\row
+\ql ZipCode = 91604\cell\qc 0.474***\cell\row
+\ql \cell\qc [0.063]\cell\row
+\ql ZipCode = 91605\cell\qc -0.410***\cell\row
+\ql \cell\qc [0.052]\cell\row
+\ql ZipCode = 91606\cell\qc -0.209***\cell\row
+\ql \cell\qc [0.054]\cell\row
+\ql ZipCode = 91607\cell\qc 0.190*\cell\row
+\ql \cell\qc [0.106]\cell\row
+\ql ZipCode = 91702\cell\qc -0.497***\cell\row
+\ql \cell\qc [0.051]\cell\row
+\ql ZipCode = 91706\cell\qc -0.555***\cell\row
+\ql \cell\qc [0.051]\cell\row
+\ql ZipCode = 91711\cell\qc -0.269***\cell\row
+\ql \cell\qc [0.052]\cell\row
+\ql ZipCode = 91722\cell\qc -0.479***\cell\row
+\ql \cell\qc [0.049]\cell\row
+\ql ZipCode = 91723\cell\qc -0.384***\cell\row
+\ql \cell\qc [0.050]\cell\row
+\ql ZipCode = 91724\cell\qc -0.352***\cell\row
+\ql \cell\qc [0.053]\cell\row
+\ql ZipCode = 91731\cell\qc -0.445***\cell\row
+\ql \cell\qc [0.060]\cell\row
+\ql ZipCode = 91732\cell\qc -0.530***\cell\row
+\ql \cell\qc [0.068]\cell\row
+\ql ZipCode = 91733\cell\qc -0.474***\cell\row
+\ql \cell\qc [0.055]\cell\row
+\ql ZipCode = 91740\cell\qc -0.374***\cell\row
+\ql \cell\qc [0.051]\cell\row
+\ql ZipCode = 91741\cell\qc -0.201***\cell\row
+\ql \cell\qc [0.052]\cell\row
+\ql ZipCode = 91744\cell\qc -0.547***\cell\row
+\ql \cell\qc [0.049]\cell\row
+\ql ZipCode = 91745\cell\qc -0.369***\cell\row
+\ql \cell\qc [0.052]\cell\row
+\ql ZipCode = 91746\cell\qc -0.524***\cell\row
+\ql \cell\qc [0.055]\cell\row
+\ql ZipCode = 91748\cell\qc -0.282***\cell\row
+\ql \cell\qc [0.050]\cell\row
+\ql ZipCode = 91750\cell\qc -0.305***\cell\row
+\ql \cell\qc [0.051]\cell\row
+\ql ZipCode = 91754\cell\qc -0.167***\cell\row
+\ql \cell\qc [0.052]\cell\row
+\ql ZipCode = 91755\cell\qc -0.286***\cell\row
+\ql \cell\qc [0.060]\cell\row
+\ql ZipCode = 91765\cell\qc -0.205***\cell\row
+\ql \cell\qc [0.050]\cell\row
+\ql ZipCode = 91766\cell\qc -0.588***\cell\row
+\ql \cell\qc [0.056]\cell\row
+\ql ZipCode = 91767\cell\qc -0.645***\cell\row
+\ql \cell\qc [0.053]\cell\row
+\ql ZipCode = 91768\cell\qc -0.696***\cell\row
+\ql \cell\qc [0.053]\cell\row
+\ql ZipCode = 91770\cell\qc -0.360***\cell\row
+\ql \cell\qc [0.056]\cell\row
+\ql ZipCode = 91773\cell\qc -0.294***\cell\row
+\ql \cell\qc [0.052]\cell\row
+\ql ZipCode = 91775\cell\qc 0.145**\cell\row
+\ql \cell\qc [0.068]\cell\row
+\ql ZipCode = 91776\cell\qc -0.210***\cell\row
+\ql \cell\qc [0.068]\cell\row
+\ql ZipCode = 91780\cell\qc -0.002\cell\row
+\ql \cell\qc [0.053]\cell\row
+\ql ZipCode = 91789\cell\qc -0.085\cell\row
+\ql \cell\qc [0.054]\cell\row
+\ql ZipCode = 91790\cell\qc -0.389***\cell\row
+\ql \cell\qc [0.049]\cell\row
+\ql ZipCode = 91791\cell\qc -0.368***\cell\row
+\ql \cell\qc [0.055]\cell\row
+\ql ZipCode = 91792\cell\qc -0.381***\cell\row
+\ql \cell\qc [0.050]\cell\row
+\ql ZipCode = 91801\cell\qc -0.122*\cell\row
+\ql \cell\qc [0.067]\cell\row
+\ql ZipCode = 91803\cell\qc -0.235***\cell\row
+\ql \cell\qc [0.054]\cell\row
+\ql ZipCode = 92397\cell\qc -1.076***\cell\row
+\ql \cell\qc [0.048]\cell\row
+\ql SaleMonth = 2\cell\qc 0.000\cell\row
+\ql \cell\qc [0.009]\cell\row
+\ql SaleMonth = 3\cell\qc 0.012\cell\row
+\ql \cell\qc [0.008]\cell\row
+\ql Constant\cell\qc 13.063***\cell\row
+\ql \cell\qc [0.055]\cell\row
+\ql \cell\qc \cell\row
+\ql Observations\cell\qc 4,622\cell\row
+\ql R-squared\cell\qc 0.801\cell\row
+\ql Adjusted R-Squared\cell\qc 0.796\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx2736\clbrdrb\brdrs\cellx4176
+\ql Root MSE\cell\qc 0.229\cell\row
+\pard\qc
+Robust standard errors in brackets\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}

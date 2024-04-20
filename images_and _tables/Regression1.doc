@@ -1,0 +1,36 @@
+{\rtf1\fs24
+\pard\qc
+Problem Set 2\par
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx2736\clbrdrt\brdrs\cellx4176
+\ql \cell\qc (1)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx2736\cellx4176
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx2736\clbrdrb\brdrs\cellx4176
+\ql VARIABLES\cell\qc lnpr\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx2736\cellx4176
+\ql \cell\qc \cell\row
+\ql Living Area\cell\qc 0.001***\cell\row
+\ql \cell\qc [0.000]\cell\row
+\ql livingarea2\cell\qc -0.000***\cell\row
+\ql \cell\qc [0.000]\cell\row
+\ql PR_Age\cell\qc 0.006***\cell\row
+\ql \cell\qc [0.001]\cell\row
+\ql pr_age2\cell\qc 0.000\cell\row
+\ql \cell\qc [0.000]\cell\row
+\ql Beds\cell\qc -0.098***\cell\row
+\ql \cell\qc [0.009]\cell\row
+\ql Baths\cell\qc 0.061***\cell\row
+\ql \cell\qc [0.011]\cell\row
+\ql Lot Area\cell\qc 0.000\cell\row
+\ql \cell\qc [0.000]\cell\row
+\ql Constant\cell\qc 12.066***\cell\row
+\ql \cell\qc [0.049]\cell\row
+\ql \cell\qc \cell\row
+\ql Observations\cell\qc 4,668\cell\row
+\ql R-squared\cell\qc 0.535\cell\row
+\ql Adjusted R-Squared\cell\qc 0.535\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx2736\clbrdrb\brdrs\cellx4176
+\ql Root MSE\cell\qc 0.373\cell\row
+\pard\qc
+Robust standard errors in brackets\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}
