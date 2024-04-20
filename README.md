@@ -42,5 +42,5 @@ The dataset comprised merged real estate transactions in the LA area during the 
 
 - Developed a regression model with an r-squared value of 0.801 for predicting house prices in the Los Angeles area.
 - Residual analysis indicated no heteroskedasticity.
-- Further details and full results are available in the Google Doc.
-- Identified potential avenues for future research and discussed limitations of the analysis.
+- Correlation matrix and VIF chart indicated no multicollinearity
+- Full results are available in the Google Doc.
